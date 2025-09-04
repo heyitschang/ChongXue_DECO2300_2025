@@ -1,5 +1,3 @@
-# ChongXue_DECO2300_2025
-
 # Paint 360: XR Redesign of Microsoft Paint
 
 ## 1. Microsoft Paint
