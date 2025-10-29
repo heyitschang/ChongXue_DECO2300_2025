@@ -53,6 +53,8 @@ Paint360 has developed through several prototype stages, each adding new interac
 
 ## 4. Defining the Concept
 
+*(More sketches and storyboards available on GitHub + initial testing video: [Google Drive link](https://drive.google.com/file/d/1RjzxqyIRTDUasOBzz9LW_-bLxWvnt96C/view?usp=sharing))*  
+
 **Vision**  
 Transform Microsoft Paint into an immersive XR studio that merges gesture, voice, and environmental awareness to support intuitive creative expression.
 
